@@ -1,3 +1,10 @@
+# One Month Rails
+
+Sample app for OMR
+[*One Month Rails: Teach yourself to code*] (http://onemonthrails.com)
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
